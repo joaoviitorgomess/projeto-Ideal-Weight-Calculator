@@ -90,3 +90,8 @@ button:hover {
   font-size: 2.4rem;
   margin-bottom: 0.6rem;
 }
+
+#imc-info {
+font-size: 1.4rem;
+color: #ccc;
+}
